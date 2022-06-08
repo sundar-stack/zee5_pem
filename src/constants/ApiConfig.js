@@ -1,5 +1,5 @@
 const API_ENDPOINT_CONFIG = {
-  BASE_END_POINT: "/api/v1/zee_cinema",
+  BASE_END_POINT: "/api/v1/zee_pem",
 };
 
 const API_ENDPOINT_EXTERNAL = {
